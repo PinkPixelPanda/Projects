@@ -1,0 +1,23 @@
+{
+    "homework_types": [
+      {
+        "name": "Discussion",
+        "display_name": "Group Discussions",
+        "tasks_per_semester": 8,
+        "max_points_per_submission": 50
+      },
+      {
+        "name": "Core Assessment",
+        "display_name": "Core Knowledge Evaluation",
+        "tasks_per_semester": 4,
+        "max_points_per_submission": 50
+      },
+      {
+        "name": "Course Project",
+        "display_name": "Final Course Projects",
+        "tasks_per_semester": 8,
+        "max_points_per_submission": 50
+      }
+    ]
+  }
+  
